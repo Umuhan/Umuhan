@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on HTML, CSS, and JavaScript.
 - 💬 Ask me about HTML and CSS.
-- 📫 How to reach me: hanny.ally123@gamil.com
+- 📫 How to reach me: hanny.ally123@gmail.com
 - ⚡ Fun fact: Hiking, Swimming, Skating, and Cycling.
 
 ## 🌐 Socials:
