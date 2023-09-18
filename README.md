@@ -1,4 +1,3 @@
- <img src={logo} className="App-logo" alt="logo" />
 
 ### Hi there 👋 I am Umuhan.
 
