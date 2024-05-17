@@ -5,7 +5,6 @@
 
 # 💫 About Me:
 - 🔭 I’m currently studying at Microverse.
-- 🌱 I’m currently learning REACT AND APPLICATION MATERIALS.
 - 👯 I’m looking to collaborate on HTML, CSS, and JavaScript.
 - 💬 Ask me about javaScriptt, HTML, and CSS.
 - 📫 How to reach me: hanny.ally123@gmail.com
