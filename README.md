@@ -5,8 +5,8 @@
 
 # 💫 About Me:
 - 🔭 I’m currently studying at Microverse.
-- 👯 I’m looking to collaborate on HTML, CSS, and JavaScript.
-- 💬 Ask me about javaScriptt, HTML, and CSS.
+- 👯 I’m looking to collaborate on HTML, CSS, JavaScript, React JS, and C++.
+- 💬 Ask me about javascript, HTML, and CSS, 
 - 📫 How to reach me: hanny.ally123@gmail.com
 - ⚡ Fun fact: Hiking, Swimming, Skating, and Cycling.
 
